@@ -4,7 +4,7 @@ Dit is de ReSpec template voor Geonovum publicaties.
 Deze template is in beheer bij d.hup@geonovum.nl.
 
 Het is een standaard template en kan worden aangepast aan verschillende Documenttypen. 
-Hiervoor moet de config.js worden aangepast. Hoe dat moet lees je hieronder.
+Hiervoor moet de config.js worden aangepast. Hoe dat moet, lees je hieronder.
 
 Om gebruik te maken van de het specStatus en specType moeten in config.js de 
 schuine strepen voor het betreffende type worden weggehaald. 
