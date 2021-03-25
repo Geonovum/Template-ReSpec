@@ -17,6 +17,9 @@ In het voorbeeld hieronder zijn
 
 Het ReSpec document wordt nu dus als een werk versie van het type Beheer Documentatie vormgegeven.
 
+![image](https://user-images.githubusercontent.com/77289333/112480805-ab07bb00-8d76-11eb-8fc4-ffff9e4cff23.png)
+
+
 
 var respecConfig = 
 	                 {
