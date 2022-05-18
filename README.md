@@ -1,7 +1,6 @@
 # Template-ReSpec
 
 Dit is de ReSpec template voor Geonovum publicaties. 
-Deze template is in beheer bij d.hup@geonovum.nl.
 
 Het is een standaard template en kan worden aangepast aan verschillende Documenttypen. 
 Hiervoor moet de config.js worden aangepast. Hoe dat moet, lees je hieronder.
